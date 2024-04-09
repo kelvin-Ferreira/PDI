@@ -41,6 +41,6 @@ Repositório da matéria no https://github.com/kelvin-Ferreira/PDI.git[GitHub].
 
 [source, cpp]
 ----
-include::bitplanes.cpp[]
+include::main/bitplanes.cpp[]
 ----
 
